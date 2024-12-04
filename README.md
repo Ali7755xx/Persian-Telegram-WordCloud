@@ -11,7 +11,7 @@ Use Python 3.6+.
 The word cloud of the channel `@mamlekate`
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/1997alireza/Persian-Telegram-WordCloud/master/mamlekate.png" alt="" width="75%"/>
+<img src="https://raw.githubusercontent.com/1997alireza/Persian-Telegram-WordCloud/master/Ali_Davari7.png" alt="" width="75%"/>
 </p>
 
 
